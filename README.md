@@ -1,4 +1,4 @@
-# Detecting LLM-Generated Korean Text through Linguistic Feature Analysis
+# Detecting LLM-Generated Korean Text through Linguistic Feature Analysis (ACL 2025 Main)
 
 [**📖 Paper**](https://arxiv.org/abs/2503.00032)
 
